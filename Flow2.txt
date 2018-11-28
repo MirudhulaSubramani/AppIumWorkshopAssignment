@@ -1,5 +1,5 @@
 pseudocode for flow 2
-Load  the application homepage ==> http:www.amazon.in
+Load  the application homepage ==> http://www.amazon.in
 
 
 Click login link in home page   ==> By.id("nav-link-yourAccount").click()
